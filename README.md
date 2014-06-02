@@ -1,4 +1,4 @@
-vagrant
+vagrant Development Server
 =======
 
-vagrant
+Debian Wheezy (7) (nginx, php5-fpm, mysql, composer, phpMyAdmin)
